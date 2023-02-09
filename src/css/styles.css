@@ -18,3 +18,19 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.flag {
+  margin-right: 20px;
+}
+
+.country-name {
+  font-size: 28px;
+}
+
+.country-list{
+  list-style: none;
+}
+
+.country-info {
+  font-size: 20px;
+}
